@@ -1,4 +1,4 @@
-## Olá! Me chamo Henrique Cesar de Souza 👋 🇧🇷
+## Olá! Me chamo Henrique Cesar de Souza 🇧🇷👋 
 
 ### Graduando Análise e Desenvolvimento de Sistemas na FIAP 🚀
 #
