@@ -15,6 +15,9 @@
 </div>
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#
 ## Últimos projetos:
 -[ Pitch Projeto Merge( classificado no Top 12 no evento NEXT)](https://www.youtube.com/watch?v=ACDM40fMdXU)
 #
